@@ -27,6 +27,9 @@ pygame.draw.rect(screen,green,(200,100,50,50),15)
 point1 = (350,100)
 point2 = (500,400)
 pygame.draw.line(screen,red,point1,point2,7)
+# draw circles
+center = (400,300)
+pygame.draw.circle(screen,randColor,center,50,5)
 # update the display
 pygame.display.update()
 
