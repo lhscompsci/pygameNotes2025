@@ -1,5 +1,3 @@
-#(c) A+ Computer Science
-#www.apluscompsci.com
 
 # all imports go at the top
 import pygame, sys, random
