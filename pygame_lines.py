@@ -16,7 +16,7 @@ red = (255, 0 , 0)
 point1 = ( 50, 50 )
 point2 = ( 150, 150 )
 
-pygame.draw.line(screen, green, point1, point2)
+pygame.draw.line(screen, green, point1, point2,4)
 
 point1 = ( 50, 100 )
 point2 = ( 50, 150 )
